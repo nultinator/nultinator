@@ -2,7 +2,7 @@
 
 I’m currently working on ... Writing code and technical content
 
-I’m currently learning ... C++, Bitcoin for Developers, and Software Enginerring
+I’m currently learning ... C++, Bitcoin for Developers, and Software Engineering
 
 I’m looking to collaborate on ... all sorts of things, contact me!
 

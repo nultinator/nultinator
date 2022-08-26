@@ -1,17 +1,19 @@
 <body>
   <h1>Hi World, My name's Jake!</h1>
     <div id="about">
-      <p> I’m currently working on ... Writing code and technical content<br>
-          I’m currently learning ...
+      <p>
+        <h3>I'm currently working on</h3>
+          <ol>
+            <li><a href="https://medium.com/@nultinator">My Blog</a></li>
+            <li><a href="https://github.com/nultinator/ycash.jl">ycash.jl</a></li>
+          </ol>
+          <h3>I’m currently learning</h3>
         <ul>
           <li>C++</li>
           <li>Bitcoin for Developers</li>
           <li>Software Engineering</li>
         </ul>
-        <br>
-          I’m looking to collaborate on ... all sorts of things, contact me!<br>
-          I’m looking for help with ... nothing specific, but I value input from everyone.<br>
-          Ask me about ... anything!
+        
       </p>
 
   <h3>Contact me</h3> 

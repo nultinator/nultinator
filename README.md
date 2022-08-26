@@ -13,8 +13,7 @@
           <li>Bitcoin for Developers</li>
           <li>Software Engineering</li>
         </ul>
-        
-      </p>
+       </p>
 
   <h3>Contact me</h3> 
   <p>Send a <strong><a href="https://y.cash">Ycash</strong></a> memo to:

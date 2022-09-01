@@ -12,6 +12,7 @@
           <li>C++</li>
           <li>Bitcoin for Developers</li>
           <li>Software Engineering</li>
+          <li>Front-End Development</li>
         </ul>
        </p>
 

@@ -6,6 +6,8 @@
           <ol>
             <li><a href="https://medium.com/@nultinator">My Blog</a></li>
             <li><a href="https://github.com/nultinator/ycash.jl">ycash.jl</a></li>
+            <li><a href="https://nultinator.github.io/">My Website</a></li>
+            <li><a href="https://nultinator.github.io/equihash192stats/">Equihash Mining Stats</a></li>
           </ol>
           <h3>I’m currently learning</h3>
         <ul>

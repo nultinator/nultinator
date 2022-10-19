@@ -17,7 +17,14 @@
           <li>Software Engineering</li>
           <li>Front-End Development</li>
         </ul>
+        <h3>Certificates</h3>
+          <ul>
+          <li><a href="https://certificates.saylor.org/16500cb6-98f7-447f-8961-1eeac5a94290">C++ Programming</a></li>
+          </ul>
        </p>
+       
+  
+       
 
   <h3>Contact me</h3> 
   <p>Send a <strong><a href="https://y.cash">Ycash</strong></a> memo to:

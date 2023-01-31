@@ -12,14 +12,14 @@
           </ol>
           <h3>I’m currently learning</h3>
         <ul>
-          <li>C++</li>
-          <li>Bitcoin for Developers</li>
+          <li>Data Structures and Algorithms</li>
           <li>Software Engineering</li>
           <li>Front-End Development</li>
         </ul>
         <h3>Certificates</h3>
           <ul>
           <li><a href="https://certificates.saylor.org/16500cb6-98f7-447f-8961-1eeac5a94290">C++ Programming</a></li>
+            <li><a href="https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1675189572/1195521366JN.pdf">Bitcoin for Developers</a></li>
           </ul>
        </p>
        

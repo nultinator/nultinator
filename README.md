@@ -4,6 +4,7 @@
       <p>
         <h3>I'm currently working on</h3>
           <ol>
+            <li><a href="https://github.com/nultinator/arb-bot">A trading bot written in Async Rust</a></li>
             <li><a href="https://medium.com/@nultinator">My Blog</a></li>
             <li><a href="https://github.com/nultinator/ycash.jl">ycash.jl</a></li>
             <li><a href="https://nultinator.github.io/">My Website</a></li>

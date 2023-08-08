@@ -4,18 +4,16 @@
       <p>
         <h3>I'm currently working on</h3>
           <ol>
+            <li><a href="https://www.upwork.com/freelancers/~01dea77e1b0c441241">Projects For Clients</a></li>
             <li><a href="https://github.com/nultinator/arb-bot">A trading bot written in Async Rust</a></li>
             <li><a href="https://medium.com/@nultinator">My Blog</a></li>
-            <li><a href="https://github.com/nultinator/ycash.jl">ycash.jl</a></li>
             <li><a href="https://nultinator.github.io/">My Website</a></li>
-            <li><a href="https://nultinator.github.io/equihash192stats/">Equihash Mining Stats</a></li>
             <li><a href="https://github.com/nultinator/juliaBlockExplorer">Julia Block Explorer client</a></li>
           </ol>
           <h3>I’m currently learning</h3>
         <ul>
-          <li>Data Structures and Algorithms</li>
-          <li>Software Engineering</li>
-          <li>Front-End Development</li>
+          <li>Solidity</li>
+          <li>React</li>
         </ul>
         <h3>Certificates</h3>
           <ul>

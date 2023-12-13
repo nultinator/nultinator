@@ -21,19 +21,4 @@
             <li><a href="https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1675189572/1195521366JN.pdf">Bitcoin for Developers</a></li>
           </ul>
        </p>
-       
-  
-       
-
-  <h3>Contact me</h3> 
-  <p>Send a <strong><a href="https://y.cash">Ycash</strong></a> memo to:
-        <strong>ys1t3k4qtsad5mh9e3hlq4glucjsg4llmx7truql38aj8zh6wjgxf8ukh5khnujzev7scgzwpk68h9</strong><br>
-      <img src ="https://user-images.githubusercontent.com/72562693/186330712-5a30b53c-9b03-4d64-bb0c-4328bf3976a1.png">
-      <br>
-      <div id="email">
-        <p>Email me:<br>
-        <strong><em>nultinator@yahoo.com</em></strong>
-        </p>
-      </div>
-  </p>
 </body>
